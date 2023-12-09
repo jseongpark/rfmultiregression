@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+
+rfmultiregression.Rproj
+.gitignore
+README.md
+.Rhistory
